@@ -23,4 +23,3 @@ def canUnlockAll(boxes):
             break
 
     return all(opened)
-    
